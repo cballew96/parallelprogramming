@@ -1,3 +1,4 @@
+// matrix multiplication with all 3 for loops parallelized
 #include <stdlib.h>
 #include <omp.h>
 #include <sys/time.h>
